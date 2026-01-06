@@ -1,6 +1,6 @@
 # PUN index (GME) — Daily Forecasting with Terna Generation & Load data
 
-This notebook builds a simple **day-ahead forecasting pipeline** for the Italian electricity price (**PUN index, GME**), using public **Terna** data:
+This notebook builds a simple **day-ahead forecasting pipeline** for the Italian electricity price (**PUN index GME**), using public **Terna** data:
 - generation by source (wind, photovoltaic, hydro, geothermal, thermal)
 - total load, plus Terna’s **forecasted total load**
 
